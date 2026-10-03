@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-10-01T12:00:00+00:00",
+  "system": {
+    "os": "Windows (synthetic example)",
+    "release": "11",
+    "architecture": "AMD64",
+    "python": "3.12"
+  },
+  "checks": {
+    "disk": {
+      "status": "warning",
+      "free_percent": 8.0,
+      "free_gib": 20.0,
+      "total_gib": 250.0
+    },
+    "dns": {
+      "status": "pass",
+      "message": "Synthetic DNS success result"
+    }
+  }
+}

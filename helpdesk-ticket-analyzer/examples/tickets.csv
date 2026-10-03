@@ -1,0 +1,7 @@
+ticket_id,status,priority,category
+DEMO-001,open,high,network
+DEMO-002,resolved,medium,printer
+DEMO-003,in progress,critical,email
+DEMO-004,closed,low,account
+DEMO-005,open,medium,printer
+DEMO-006,resolved,high,network
