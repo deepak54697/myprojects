@@ -1,0 +1,6 @@
+sku,name,quantity,reorder_point,target_stock
+DEMO-001,Coffee beans 1kg,3,5,15
+DEMO-002,Paper cups pack,0,4,12
+DEMO-003,Milk cartons,18,8,24
+DEMO-004,Chocolate bars,6,6,20
+DEMO-005,Cleaning wipes,10,3,10

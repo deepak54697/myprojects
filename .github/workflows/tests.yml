@@ -8,7 +8,7 @@ jobs:
       matrix:
         os: [ubuntu-latest, windows-latest]
         python: ['3.10', '3.12']
-        project: [it-support-toolkit, helpdesk-ticket-analyzer]
+        project: [it-support-toolkit, helpdesk-ticket-analyzer, file-organizer, stock-alert-automation]
     runs-on: ${{ matrix.os }}
     defaults:
       run:
